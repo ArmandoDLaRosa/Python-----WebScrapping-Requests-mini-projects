@@ -1,0 +1,2 @@
+# Exercises
+WebScrapping exercises
