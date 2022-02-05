@@ -1,4 +1,4 @@
-# Webscrapping Exercises
+# WebScrapping/Requests mini-projects
 
 ## Tools 
 ---
