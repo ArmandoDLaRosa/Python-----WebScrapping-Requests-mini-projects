@@ -1,0 +1,36 @@
+
+
+
+Job Initialized______ http://facebook.com
+
+
+URL: http://facebook.com
+Date: 04/02/2022 19:35:46
+Status: Active
+
+
+URL: http://facebook.com
+Date: 04/02/2022 19:35:57
+Status: Active
+
+
+URL: http://facebook.com
+Date: 04/02/2022 19:36:08
+Status: Active
+
+
+URL: http://facebook.com
+Date: 04/02/2022 19:36:19
+Status: Active
+
+
+URL: http://facebook.com
+Date: 04/02/2022 19:36:29
+Status: Active
+
+Job Initialized______ http://facebook.com
+
+
+URL: http://facebook.com
+Date: 04/02/2022 23:55:17
+Status: Active
